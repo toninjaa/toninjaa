@@ -1,7 +1,7 @@
-# <div align="center"> <img height="100px" src="https://github.com/toninjaa/toninjaa/blob/main/me_hi.jpeg"> I'm Tonia :wave: #
+# <div align="center"> <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_hi-removebg-preview.png"> I'm Tonia :wave: #
 
 ### <div align="center"> I like building things to solve problems and solving problems to build things ###
-
+<p align="right"><img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_stroll-removebg-preview.png"></p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars&count_private=true" />
 </a>
@@ -9,6 +9,10 @@
 <a href="https://github.com/toninjaa/weather-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toninjaa&repo=weather-app&theme=dracula">
 </a>
+
+&nbsp;  
+
+<p align="center"><img height="100px" src="https://github.com/toninjaa/toninjaa/blob/main/me_laptop-removebg-preview.png"></p>
 
 &nbsp;  
 
