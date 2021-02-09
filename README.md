@@ -36,4 +36,9 @@
 
 &nbsp;
 
+<p align="center">
+  <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_airplane-removebg-preview.png">
+  
 [![Twitter Follow](https://img.shields.io/twitter/follow/toninjaa?style=social)](https://twitter.com/toninjaa)
+
+</p>
