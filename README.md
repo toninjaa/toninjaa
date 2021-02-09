@@ -2,6 +2,14 @@
 
 ### <div align="center"> I like building things to solve problems and solving problems to build things ###
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars&count_private=true" />
+</a>
+  
+<a href="https://github.com/toninjaa/weather-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toninjaa&repo=weather-app&theme=dracula">
+</a>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logoColor=white&color=2bbc8a&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAACN0lEQVRoge3ZvWsUQRjH8Y9RizQGTCK+EcgfYGGjjeA/4FuhnY1YiIWIlTbaKAg2VqJg0EYLE+1EQTD+ASJiK/iCIqggvlwETSJnsXvknBvv9ja3my32Bw8HM88z+/vO3Mzt3lKrVq1+NYYZzKFZsZhLvY1lAZmpgOFeMZ0FpLUSk1mSS9akxFsjS3KLuqqK+htaASOFqAapmmqQqqkGqZpqkKqpBqmaapCqqQapmooGCZ/sYjqAB/iMBXzAfewf1MUHoW4gQ7gRyWmPKZ2TndlfWSCnIv2xOJPXXxkgq/Au6LuKw7iMxbTtPfbk9VcGyIag/XFQdxxXsG45/soA2Ry0z+YYc3CJfYwVjrkG34O+8xgepL+yNvtUpP8jzun+T2LlQMbxKpLT+gPuIkaW468sEJKZn43kteIltuX1VyYIyVG8D88i+U18wUQef2WDtGs3HkXqruXxNyiQ1RFDWXU2qHuTx1+/Fx2WHJ3HgvaJwMyvoH9c8nrgYGTMkaD2dx5//YDsxes0fwGnU4PrcTMw87at7pDkbreJr9gejLsrqP1UNMi94ILd4lZb3V2dq3UdJ3BJssHb+2eKBtlkaUW6xR/saKvbqPOm8X8x798VK2yPbMHzHhAnI3Vb8aIHxA+de6jQU2stjuKJ5Ds/L5nx29jZo+4IHkpuTxbxDU9xQTJJuf0N8nekCEX9xZ7Zf6afVX0ZSvLCtqemZT+JViruZAEZTWEaFTAcRiOFGM0CUqtWrSX9BROF3q9qO/YbAAAAAElFTkSuQmCC">
   <img src="https://img.shields.io/badge/Code-typescript-informational?style=flat&logoColor=white&color=2bbc8a&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAB4ElEQVRoge3avWsUQRzG8Y8vjYVG0EJsrBRJoUTERistbeysbCwkjWAj2NvY+BeIrdha2diIsbAUEVEQAiGFB+JbgpGoZ3EeeJu53b3Zy9wg84Xl2OPZ3zzPztzOzu5RKBQm5Tn6mW/PqqZ3BIL0489BUka8724rzIjgid6Z2sV2UYLkRgmSGyVIbpQguVGC5EYJkhslSG78N0HqFlZtiF1N/rtoO4pFnMNhHMQPfMZ7vMRdrMaYa2swds095Do2W+jPxvhLFeQCfrfULzT56zq0bgW+u9NCAzeMDrEebmIJGwZD7iKu4nuMuUl6pO74pjqrFd2VMbo57Gny17VHurC/sv9pjO5LbAOpeuRNRbeMU9P0lyrI7YD2Fx7g+DT8pQqyF68D+j5+4j4OdfGXKgiDya/uWXPP6Bwykb+UQWCXwcT4MXBsH+uYj/GXOsiQOYPfzbdAjYcx/mYVZMgRvKrU6MX4m3UQuFSpsdHkb5a38Y8M7rdCzFf2PzQVm+XMfhJP8A6P/36u4QyuVbRPYxpINbSWA9rQtokTMf5yCrKOy2381b1DjH31Vm1kXJ0FnMdpHMMB7MNXvMUL3MNKrL+uPbLdZHfVmip1V62ce2ULoR5ZSu5icrb8YaBQKNTzBydxLBRccP0VAAAAAElFTkSuQmCC">
@@ -18,14 +26,6 @@
   <img src="https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logoColor=white&color=blue&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAB4UlEQVRIia3WzWoUQRQF4C9h0J24CMbM6EIRiRiyj2slYxCz1b2EIL6Ab+BWkERx5Sriyj9EfQB9BPGfGExWSRRcaCbOuKhqp2bsnp6Jc6Ch6/atc29V3Xu6RvRGDfO4gGM4Gu1r+IwneIT1Ep5/MIabaKBV8jRwBxN5RCM5tjms4EBiW8MLbKCCKmZwMvH5hst43ivzRezmZPkdZ3L8T8dkmtFvFwtF5HMF5Nmziv0Fc89iMwlS73aYiFmW7fd8UXaYTIJsYzz9eLsP8hau9wiQrSTbrqXMWNNftbRwrSQA3I++O0IxuNon+W+dVVOEqWTOIjyLgy96n8NyH+QZ3sU5T+FtHNwVSnE1J/Nl7BsgwL04901FuwM38ErYhvNCVfzAy5jRIMiko1ZJjNn7LzwckLAbmUK0RpNo1f8kTZFxrY/iYxzMDDFAxvWBzjKdGgL5tK4yTRttZQgBHmg32l8JX4rGptDue8WstlTcSj+MCwLVEgRrcg/kp7AVObZwqNuhri3XmwZbyWxC3sC5IseFJEhTEK5eBz8t7Hm2LQ1cSR3yfpl14bAPJrb3eI2vcXxEKMUTic82LgmdX4ox3MBP5Sq7I/z0D+cR5a0gRRUXhWvLcZ3Xlk/CteWxoGO5+AMlvMBLfABObgAAAABJRU5ErkJggg==">
   <img src="https://img.shields.io/badge/Tools-git-informational?style=flat&logoColor=white&color=blue&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABNklEQVRIia3Uy0rDUBSF4U/xCRQUxyqICK1UsI6Fto/gxImCgqhTH88HEJ1XEC9T66VjoXWQBE9Lmp6m2bAJJ6ysn712EuKriTc8oT7Dc1F1iD6GaX9jvyrzVfwE5ln3VDDJWnq9wqBqSANfuE3P5xMgpeJq+s98gOv0fgtneDXHJOMLzSAHgeYoZ5IoSJ551u1At63ETorMh7jHeqC/mQUyzTzrY2xI3iq4mAAZWXwz0jwDbKaml+nzbZxKvvLcSV4izUNA3uJbOfruIn7H84qsBSwH516OZgn28FligiEesYst3I1p+5L4kWTVKwGY1CPmWU2b5AM1rOB9VvMYyEmg65QxDyF5cXUCTaOseRHkATuSD61wobFVk+ReaqFVQeYynwapxHwSpFLzrOro4tnoP6iw/gA7ZveOCHOrUgAAAABJRU5ErkJggg==">
 </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars&count_private=true" />
-</a>
-  
-<a href="https://github.com/toninjaa/weather-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toninjaa&repo=weather-app&theme=dracula">
-</a>
 
 &nbsp;
 
