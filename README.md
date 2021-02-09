@@ -1,5 +1,7 @@
 # <div align="center"> Hi, I'm Tonia 
-# <div align="center"><img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_laptop-removebg-preview.png">
+<p align="center">
+  <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_laptop-removebg-preview.png">
+</p>
 
 ### <div align="center"> I like building things to solve problems and solving problems to build things <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_stroll-removebg-preview.png">
 
