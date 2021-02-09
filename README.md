@@ -1,7 +1,8 @@
-# <div align="center"> Hi, I'm Tonia <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_laptop-removebg-preview.png"> #
+# <div align="center"> Hi, I'm Tonia 
+# <div align="center"><img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_laptop-removebg-preview.png">
 
-### <div align="center"> I like building things to solve problems and solving problems to build things ###
-<p align="right"><img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_stroll-removebg-preview.png"></p>
+### <div align="center"> I like building things to solve problems and solving problems to build things <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_stroll-removebg-preview.png">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars&count_private=true" />
 </a>
