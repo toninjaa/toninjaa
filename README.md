@@ -1,4 +1,4 @@
-# <div align="center"> <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_hi-removebg-preview.png"> I'm Tonia :wave: #
+# <div align="center"> Hi, I'm Tonia <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_laptop-removebg-preview.png"> #
 
 ### <div align="center"> I like building things to solve problems and solving problems to build things ###
 <p align="right"><img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_stroll-removebg-preview.png"></p>
@@ -11,8 +11,6 @@
 </a>
 
 &nbsp;  
-
-<p align="center"><img height="100px" src="https://github.com/toninjaa/toninjaa/blob/main/me_laptop-removebg-preview.png"></p>
 
 &nbsp;  
 
