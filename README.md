@@ -1,4 +1,4 @@
-# <div align="center"> :wave: Hi! I'm Tonia :wave: #
+# <div align="center"> <img height="100px" src="https://github.com/toninjaa/toninjaa/blob/main/me_hi.jpeg"> I'm Tonia :wave: #
 
 ### <div align="center"> I like building things to solve problems and solving problems to build things ###
 
