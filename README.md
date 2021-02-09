@@ -37,6 +37,7 @@
 
 &nbsp; 
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/toninjaa?style=social)](https://twitter.com/toninjaa) <div align="center"> ...And sometimes I tweet! <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me-airplane-removebg-preview.png">
+<div align="center"> ...And sometimes I tweet! <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me-airplane-removebg-preview.png">
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/toninjaa?style=social)](https://twitter.com/toninjaa)
 
