@@ -3,17 +3,7 @@
   <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_laptop-removebg-preview.png">
 </p>
 
-### <div align="center"> I like building things to solve problems and solving problems to build things <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_stroll-removebg-preview.png">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars&count_private=true" />
-</a>
-  
-<a href="https://github.com/toninjaa/weather-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toninjaa&repo=weather-app&theme=dracula">
-</a>
-
-&nbsp;  
+### <div align="center"> I like building things to solve problems and solving problems to build things <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_stroll-removebg-preview.png"> 
 
 &nbsp;  
 
@@ -36,9 +26,18 @@
 
 &nbsp;
 
-<p align="center">
-  <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me_airplane-removebg-preview.png">
+### <div align="center"> I've been a Software Engineer at a fintech startup for 2 years now, but I also like to code for fun... 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars&count_private=true" />
+</a>
+  
+<a href="https://github.com/toninjaa/weather-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toninjaa&repo=weather-app&theme=dracula">
+</a>
+
+&nbsp; 
+
+<img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me-airplane-removebg-preview.png">
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/toninjaa?style=social)](https://twitter.com/toninjaa)
 
-</p>
