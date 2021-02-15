@@ -27,13 +27,12 @@
 &nbsp;
 
 ### <div align="center"> <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me-dino-removebg-preview.png"> I've been a Software Engineer at a fintech startup for 2 years now, but I also like to code for fun... 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars&count_private=true" />
-</a>
-  
-<a href="https://github.com/toninjaa/weather-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toninjaa&repo=weather-app&theme=dracula">
-</a>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars&count_private=true" />
+  </a>
+</p>
 
 &nbsp; 
   
