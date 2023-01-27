@@ -26,7 +26,7 @@
 
 &nbsp;
 
-### <div align="center"> <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me-dino-removebg-preview.png"> I've been a Software Engineer at a fintech startup for 2 years now, but I also like to code for fun... 
+### <div align="center"> <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me-dino-removebg-preview.png"> I've been a Software Engineer at a fintech startup for 4 years now, but I also like to code for fun... 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
