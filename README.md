@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars&count_private=true&hide=contribs" />
   </a>
 </p>
 
