@@ -26,13 +26,13 @@
 
 &nbsp;
 
-### <div align="center"> <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me-dino-removebg-preview.png"> I've been a Software Engineer at a fintech startup for 4 years now, but I also like to code for fun... 
+### <div align="center"> <img height="75px" src="https://github.com/toninjaa/toninjaa/blob/main/me-dino-removebg-preview.png"> I've been a Software Engineer at a fintech startup for 4 years now, but I also like to code for fun
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninjaa&show_icons=true&theme=dracula&hide=stars,contribs&count_private=true" />
   </a>
-</p>
+</p> -->
 
 &nbsp; 
   
